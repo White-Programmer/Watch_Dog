@@ -8,5 +8,5 @@ This Program Will Calculate Your Screen Time.
 5. Soon I Will Be Adding CGI Interface As Well As GUI InterFace (Not Sure About GUI InterFace).
 
 You Can Also Know It By These Name :) :
-Screen Time Application
+Screen Time Application, 
 Screen Time Tracker 
